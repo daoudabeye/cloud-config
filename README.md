@@ -1,2 +1,2 @@
 # cloud-config
-cloud config server
+cloud config server master
